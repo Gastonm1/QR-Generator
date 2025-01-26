@@ -19,7 +19,7 @@ A simple Python application that converts a QR code of users text, image or url.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Gastonm1/QRGenerator.git
+   git clone https://github.com/Gastonm1/QR-Generator.git
    cd qr_gen.py
    ```
 2. Run the Python script
